@@ -6,9 +6,9 @@ You can use multiple accounts same time, just add more credentials, and script w
 
 # Setup
 
-Run "install.sh" with root privileges (in future you need to download the newest version of geckodriver - https://github.com/mozilla/geckodriver/releases).
+- Run "install.sh" with root privileges (in future you need to download the newest version of geckodriver - https://github.com/mozilla/geckodriver/releases).
 
-Add your logins and passwords to credentials.csv
+- Add your logins and passwords to credentials.csv
 
 # Usage:
 
